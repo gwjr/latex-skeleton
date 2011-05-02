@@ -356,7 +356,7 @@
 
 \newenvironment{instatquote}%
 {%
-\vspace{-4ex}%
+\vspace{-3ex}%
 \begin{list}{}%
 {%
 \setlength{\topsep}{0ex}%
