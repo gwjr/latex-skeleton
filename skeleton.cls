@@ -379,3 +379,10 @@
 \newcommand{\stathead}[2]{
 \item[\textbf{#1}]\textbf{#2}
 }
+
+
+%%%% XeLaTeX only %%%%
+\newcommand{\st}{\textsuperscript{st}}
+\newcommand{\nd}{\textsuperscript{nd}}
+\newcommand{\rd}{\textsuperscript{rd}}
+\newcommand{\th}{\textsuperscript{th}}
