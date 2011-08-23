@@ -23,6 +23,8 @@
 \RequirePackage{arrayjob}
 \RequirePackage{multido}
 \RequirePackage{xifthen}
+\RequirePackage[british]{babel}
+\RequirePackage{datetime}
 %
 %LAYOUT SETTINGS
 %
